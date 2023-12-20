@@ -1,0 +1,222 @@
+{
+  "notFound": {
+    "button": "Go to home page"
+  },
+  "nav": {
+    "home": "Home",
+    "news": "News",
+    "about": "About us",
+    "contacts": "Contacts",
+    "faq": "FAQ",
+    "reviews": "Reviews",
+    "partnership": "Partnership",
+    "exchangeRates": "Trade pairs",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "profile": "Profile",
+    "orders": "Orders",
+    "information": "Information"
+  },
+  "button": {
+    "exchange": "Exchange",
+    "send": "Send",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "add": "Add",
+    "exit": "Exit",
+    "addNews": "Add News",
+    "chooseFile": "Choose File Max 100KB",
+    "readMore": "Read More",
+    "showMore": "Show More",
+    "showLess": "Show Less",
+    "loadMore": "Load More",
+    "private": "Private",
+    "operation": "Operation",
+    "feedback": "Feedback"
+  },
+  "alert": {
+    "loginFirst": "Please register or login first"
+  },
+  "admin": {
+    "account": "Account",
+    "reviews": "Reviews",
+    "transactions": "Transactions",
+    "chat": "Chat",
+    "createAt": "created at",
+    "updatedAt": "updated at",
+    "paymentMethod": "payment method",
+    "creditCard": "credit card",
+    "wallet": "wallet",
+    "cash": "cash",
+    "owner": "Owner data",
+    "role": "Role",
+    "registrationDate": "Date of registration",
+    "title": "Title",
+    "content": "Content",
+    "adminForm": "Admin form"
+  },
+  "hero": {
+    "desc": "is reliable and secure cryptocurrency exchanger for every day"
+  },
+  "calc": {
+    "inputGive": "Giving",
+    "inputReceive": "Receiving",
+    "submit": "Exchange",
+    "inputEmptyError": "Please fill in the field"
+  },
+  "exchange": {
+    "name": "Name",
+    "nameHelp": "Please write down full name",
+    "additionalContact": "Additional contact",
+    "additionalContactHelp": "Number of Whatsapp/Telegram (tag)",
+    "agreement": "I accept the terms of exchange",
+    "success": "Exchange proposition is successfully sent",
+    "cashSuccess": "We'll contact you shortly about details",
+    "emptyDetails": "Please rewrite your payment details",
+    "error": "There was an error, please check your data"
+  },
+  "captcha": {
+    "verify": "I'm not a bot",
+    "error": "Please complete captcha"
+  },
+  "auth": {
+    "register": "Create Account",
+    "login": "Log In",
+    "name": "User Name",
+    "mail": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "forgotPassword": "Forgot password?",
+    "wrongData": "Wrong user data",
+    "codeMissing": "Please enter a verification code",
+    "verifyCode": "verification code",
+    "errorData": "Wrong authentication data",
+    "checkPassword": "Passwords are not identical",
+    "errorExists": "User with that email is already registered",
+    "errorNotFound": "User not found",
+    "errorVerification": "Verification code is wrong or is already passed"
+  },
+  "forgotPassword": {
+    "helper": "Write email and we'll send recovery code",
+    "backToLogin": "Back to login",
+    "success": "Mail is sent",
+    "verificationError": "Verification code is wrong",
+    "unexpected": "Error occurred",
+    "changedPassword": "Password is successfully changed"
+  },
+  "verification": {
+    "verificationCode": "Verification code",
+    "helper": "In case of missing email check your spam folder",
+    "verify": "Verify"
+  },
+  "userData": {
+    "firstName": "Name",
+    "lastName": "Last name",
+    "name": "Nickname",
+    "email": "Email",
+    "data": "Date of registration",
+    "status": "Status",
+    "wallet": "Wallet",
+    "creditCard": "Credit card",
+    "message": "You have not left a review about our service yet. We will be glad to see your feedback which can be left after the first transaction following the",
+    "message1": "Your feedback:",
+    "message2": "You can leave another review by clicking on the link",
+    "link": "link review",
+    "link1": "edit review",
+    "link2": "Make your first transaction"
+  },
+  "courses": {
+    "title": "TOP CRYPTOCURRENCY",
+    "desc": "The most popular cryptocurrencies today"
+  },
+  "table": {
+    "name": "Name",
+    "price": "Price",
+    "change": "Change",
+    "capital": "Capitalization"
+  },
+  "about": {
+    "title": "ABOUT OUR SERVICE",
+    "subTitle": "Advantages of working with our service",
+    "cardTitle1": "Reliability",
+    "cardTitle2": "Profitability",
+    "cardTitle3": "Modern",
+    "cardTitle4": "Confidentially",
+    "cardTitle5": "Functionally",
+    "cardTitle6": "Beneficial partnership",
+    "cardDesc1": "Using multi-level server protection. Security and control system for digital assets. The service is included in authoritative monitoring and listings. Guarantee of receipt of funds, subject to compliance with the exchange rules of the service    ",
+    "cardDesc2": "Always up-to-date and profitable exchange rates from the world's leading exchanges. No hidden fees or additional fees. Fixing and agreeing on the exchange rate with the client subject to cash exchange",
+    "cardDesc3": "Convenient modern resource. Automatic search for the best rates of world crypto exchanges for making transactions. Automatic cryptocurrency exchange using bank cards. Accessible and understandable interface for everyone",
+    "cardDesc4": "Information about users is not stored on the service. Maintain strict confidentiality. We respect your desire not to disclose personal information about yourself. Information about applications is stored in encrypted form",
+    "cardDesc5": "Wide selection of payment systems for withdrawal of funds and exchange directions. Exchange in a currency convenient for the client. High speed of transactions and application processing. 24/7 automatic cryptocurrency exchange",
+    "cardDesc6": "We provide thoughtful tools with high conversion rates. API and other integration formats. Help and advice with connecting to the service. Providing box solutions"
+  },
+  "homeReviews": {
+    "title": "REVIEWS",
+    "subTitle": "What our customers say about us",
+    "button": "All reviews"
+  },
+  "footer": {
+    "workingHours": "Working hours",
+    "socialNetworks": "Social networks",
+    "serviceWork": "Service works 24/7",
+    "tecnicalSupport": "Technical support from 08:00 till 24:00"
+  },
+  "news": {
+    "title": "Cryptocurrency news",
+    "subTitle": "Latest news for you",
+    "button": "Read"
+  },
+  "reviews": {
+    "title": "What they say about us",
+    "subTitle": "Our service is open, we show all reviews",
+    "formTitle": "Leave your feedback",
+    "formSubTitle": "We will be glad to see your feedback which can be left after the first transaction",
+    "button": "Leave a review",
+    "placeholder": "Write your review",
+    "loginMessage": "To leave review please login",
+    "success": "Your review was sent for verification",
+    "noReviews": "Be the first one to leave review!"
+  },
+  "tradepairs": {
+    "title": "Trade pairs",
+    "subTitle": "There are more than 90 cryptocurrencies available on the market"
+  },
+  "partnership": {
+    "title": "Partnership",
+    "text1": "We are ready to offer additional discounts for regular customers for the Bitcoin exchange direction - Privat24. In this case, the discount is an additional payment to the payment received.",
+    "text2": "Let's consider an example: in total you exchanged the equivalent of 5000 USD in any currency with us. Now you are exchanging btc for 14,000 hryvnia, to this amount you will receive an additional payment of 0.05% * 14,000 = 7 hryvnia.",
+    "discount": "Discount system"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "question1": "Why should I choose your cryptocurrency exchange?",
+    "question2": "How do I create an account on your platform?",
+    "question3": "Is my personal and financial information safe with your exchange?",
+    "question4": "What cryptocurrencies can I trade on your platform?",
+    "question5": "What are your trading fees?",
+    "question6": "How long do withdrawals take to process?",
+    "answer1": "We offer a secure and user-friendly platform with competitive fees, a wide range of supported cryptocurrencies, and a track record of reliability. Our commitment to customer service and compliance with industry standards sets us apart.",
+    "answer2": "Creating an account is simple. Just click on the \"Sign Up\" button. Follow the on-screen instructions to provide the necessary information and you'll be ready to start trading.",
+    "answer3": "Yes, we take security seriously. We employ advanced encryption and multi-factor authentication to protect your data. Additionally, our platform complies with industry best practices for data privacy and security.",
+    "answer4": "We support a wide variety of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Ripple (XRP), and many others.",
+    "answer5": "Our trading fees vary depending on the trading pair and your trading volume.",
+    "answer6": "Withdrawal processing times depend on the cryptocurrency and network congestion. Generally, cryptocurrency withdrawals are processed quickly, while fiat withdrawals may take a few business days to reach your bank account."
+  },
+  "tableTransaction": {
+    "amountToExchange": "exchange",
+    "amountToReceive": "receive",
+    "currencyToReceive": "receive",
+    "currencyToExchange": "exchange",
+    "amount": "amount to ",
+    "currency": "currency to "
+  }
+}
