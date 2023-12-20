@@ -1,5 +1,5 @@
 {
-  "name": "kyiv_cryptocurrency_exchanger",
+  "name": "cryptocurrency-exchanger-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
